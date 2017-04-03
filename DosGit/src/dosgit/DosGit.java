@@ -16,6 +16,9 @@ public class DosGit {
      */
     public static void main(String[] args) {
         System.out.println("Dale a tu cuerpo alegría Macarena");
+        System.out.println("Que tu cuerpo es para darle alegría");
+        System.out.println("Y cosa buena");
+        
     }
     
 }
